@@ -1,0 +1,11 @@
+
+
+
+class Actor
+{
+	
+protected:
+	
+public:
+	
+};
